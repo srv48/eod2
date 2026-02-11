@@ -1,3 +1,12 @@
+# user defined
+# nseBhav
+# nseDelivery
+# nseIndices
+# nse_cookies.pkl
+# src/defs/user.json
+# src/data/*
+# !src/data/sectors.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -132,11 +141,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# user defined
-nseBhav
-nseDelivery
-nseIndices
-nse_cookies.pkl
-src/defs/user.json
-src/data/*
-!src/data/sectors.csv
+
